@@ -3,7 +3,7 @@ param(
   [string]$RepoPath,
 
   [Parameter(Mandatory = $true)]
-  [ValidateSet('bot', 'sync', 'fichas')]
+  [ValidateSet('bot', 'sync', 'fichas', 'library')]
   [string]$Profile,
 
   [switch]$Activate,

@@ -21,6 +21,7 @@ relative to the current project.
 - `kingdoom-bot`
 - `Kingdoom-sync`
 - `kingdoom-fichas`
+- `kingdoom-library`
 
 ## Main commands
 
